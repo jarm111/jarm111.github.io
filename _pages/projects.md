@@ -6,6 +6,8 @@ toc_sticky: true
 title: Projects
 ---
 
+A collection of my works and projects I've been involved in.
+
 ## AWS Serverless Introduction
 
 ```javascript
