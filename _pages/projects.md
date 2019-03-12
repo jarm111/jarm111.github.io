@@ -1,5 +1,7 @@
 ---
 permalink: /projects/
+toc: true
+toc_sticky: true
 ---
 
 ## Projects
