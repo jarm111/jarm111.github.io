@@ -27,7 +27,7 @@ app.get('/', function(req, res) {
 
 ### RPS App Client
 
-![RPS App Client](images/rps-app-client.png "RPS App Client")
+![RPS App Client](/assets/images/rps-app-client.png "RPS App Client")
 
 <dl>
   <dt>Description</dt>
@@ -74,7 +74,7 @@ module.exports = app => {
 
 ### Web Development 1 cource exercises
 
-![Web Development 1 cource exercises commit graph](images/wd1-exercises-commits.png "Web Development 1 cource exercises commit graph")
+![Web Development 1 cource exercises commit graph](/assets/images/wd1-exercises-commits.png "Web Development 1 cource exercises commit graph")
 
 <dl>
   <dt>Description</dt>
@@ -106,7 +106,7 @@ module.exports = app => {
 
 ### Defiler
 
-![Defiler](images/defiler.png "Defiler")
+![Defiler](/assets/images/defiler.png "Defiler")
 
 <dl>
   <dt>Description</dt>
@@ -124,7 +124,7 @@ module.exports = app => {
 
 ### Aviatorum
 
-![Aviatorum](images/aviatorum.png "Aviatorum")
+![Aviatorum](/assets/images/aviatorum.png "Aviatorum")
 
 <dl>
   <dt>Description</dt>
@@ -141,7 +141,7 @@ module.exports = app => {
 
 ### State Machine Pattern Experiment
 
-![State Machine Pattern Experiment](images/state-machine-pattern-experiment.png "State Machine Pattern Experiment")
+![State Machine Pattern Experiment](/assets/images/state-machine-pattern-experiment.png "State Machine Pattern Experiment")
 
 <dl>
   <dt>Description</dt>
@@ -159,7 +159,7 @@ module.exports = app => {
 
 ### ECS Model Experiment
 
-![ECS Model Experiment](images/ecs-model-experiment.png "ECS Model Experiment")
+![ECS Model Experiment](/assets/images/ecs-model-experiment.png "ECS Model Experiment")
 
 <dl>
   <dt>Description</dt>
@@ -177,7 +177,7 @@ module.exports = app => {
 
 ### Blocky the Flickylike
 
-![Blocky the Flickylike](images/blocky-the-flickylike.png "Blocky the Flickylike")
+![Blocky the Flickylike](/assets/images/blocky-the-flickylike.png "Blocky the Flickylike")
 
 <dl>
   <dt>Description</dt>
@@ -195,7 +195,7 @@ module.exports = app => {
 
 ### Strength Training Workout Planner
 
-![Strength Training Workout Planner](images/strenght-training-workout-planner.png "Strength Training Workout Planner")
+![Strength Training Workout Planner](/assets/images/strenght-training-workout-planner.png "Strength Training Workout Planner")
 
 <dl>
   <dt>Description</dt>
@@ -212,7 +212,7 @@ module.exports = app => {
 
 ### WPD Portfolio Site
 
-![WPD Portfolio Site](images/wpd-portfolio-site.png "WPD Portfolio Site")
+![WPD Portfolio Site](/assets/images/wpd-portfolio-site.png "WPD Portfolio Site")
 
 <dl>
   <dt>Description</dt>
@@ -230,7 +230,7 @@ module.exports = app => {
 
 ### WPD Eye Candy Page
 
-![WPD Eye Candy page](images/wpd-eye-candy-page.png "WPD Eye Candy page")
+![WPD Eye Candy page](/assets/images/wpd-eye-candy-page.png "WPD Eye Candy page")
 
 <dl>
   <dt>Description</dt>
@@ -248,7 +248,7 @@ module.exports = app => {
 
 ### Midsummer Night
 
-![Midsummer Night](images/midsummer-night.png "Midsummer Night")
+![Midsummer Night](/assets/images/midsummer-night.png "Midsummer Night")
 
 <dl>
   <dt>Description</dt>
@@ -266,7 +266,7 @@ module.exports = app => {
 
 ### CodingBat
 
-![CodingBat](images/codingbat.png "CodingBat")
+![CodingBat](/assets/images/codingbat.png "CodingBat")
 
 <dl>
   <dt>Description</dt>
