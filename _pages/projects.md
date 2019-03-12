@@ -6,7 +6,7 @@ toc_sticky: true
 title: Projects
 ---
 
-### AWS Serverless Introduction
+## AWS Serverless Introduction
 
 ```javascript
 app.get('/', function(req, res) {
@@ -27,7 +27,7 @@ app.get('/', function(req, res) {
 
 [Source at GitHub](https://github.com/jarm111/aws-serverless-introduction)
 
-### RPS App Client
+## RPS App Client
 
 ![RPS App Client](/assets/images/rps-app-client.png "RPS App Client")
 
@@ -45,7 +45,7 @@ app.get('/', function(req, res) {
 [Hosted at GitHub Pages](https://jarm111.github.io/rps-app-client/) \
 [Source at GitHub](https://github.com/jarm111/rps-app-client)
 
-### RPS App REST API
+## RPS App REST API
 
 ```javascript
 module.exports = app => {
@@ -74,7 +74,7 @@ module.exports = app => {
 
 [Source at GitHub](https://github.com/jarm111/rps-app-rest-api)
 
-### Web Development 1 cource exercises
+## Web Development 1 cource exercises
 
 ![Web Development 1 cource exercises commit graph](/assets/images/wd1-exercises-commits.png "Web Development 1 cource exercises commit graph")
 
@@ -91,7 +91,7 @@ module.exports = app => {
 
 [Source at GitHub](https://github.com/jarm111/web-development-1-exercises)
 
-### Humber College Global Forum 2018 at Toronto, Canada
+## Humber College Global Forum 2018 at Toronto, Canada
 
 <dl>
   <dt>Description</dt>
@@ -106,7 +106,7 @@ module.exports = app => {
 
 [Travelogue at GitHub Pages](https://jarm111.github.io/my-toronto-trip-diary/)
 
-### Defiler
+## Defiler
 
 ![Defiler](/assets/images/defiler.png "Defiler")
 
@@ -124,7 +124,7 @@ module.exports = app => {
 [Hosted at Itch.io](https://pakanagames.itch.io/defiler) \
 [Portolio of my works in the project](https://jarm111.github.io/my-tc5-pl-portfolio/)
 
-### Aviatorum
+## Aviatorum
 
 ![Aviatorum](/assets/images/aviatorum.png "Aviatorum")
 
@@ -141,7 +141,7 @@ module.exports = app => {
 
 [Hosted at Itch.io](https://aviatorum.itch.io/aviatorum)
 
-### State Machine Pattern Experiment
+## State Machine Pattern Experiment
 
 ![State Machine Pattern Experiment](/assets/images/state-machine-pattern-experiment.png "State Machine Pattern Experiment")
 
@@ -159,7 +159,7 @@ module.exports = app => {
 [Hosted at Itch.io](https://jarm111.itch.io/state-machine-pattern-experiment) \
 [Source at GitHub](https://github.com/jarm111/state-machine-pattern-experiment)
 
-### ECS Model Experiment
+## ECS Model Experiment
 
 ![ECS Model Experiment](/assets/images/ecs-model-experiment.png "ECS Model Experiment")
 
@@ -177,7 +177,7 @@ module.exports = app => {
 [Hosted at Itch.io](https://jarm111.itch.io/ecs-model-experiment) \
 [Source at GitHub](https://github.com/jarm111/ecs-model-experiment)
 
-### Blocky the Flickylike
+## Blocky the Flickylike
 
 ![Blocky the Flickylike](/assets/images/blocky-the-flickylike.png "Blocky the Flickylike")
 
@@ -195,7 +195,7 @@ module.exports = app => {
 [Hosted at Itch.io](https://jarm111.itch.io/blocky-the-flickylike) \
 [Source at GitHub](https://github.com/jarm111/blocky-the-flickylike)
 
-### Strength Training Workout Planner
+## Strength Training Workout Planner
 
 ![Strength Training Workout Planner](/assets/images/strenght-training-workout-planner.png "Strength Training Workout Planner")
 
@@ -212,7 +212,7 @@ module.exports = app => {
 
 [Source at GitHub](https://github.com/jarm111/strength-training-workout-planner)
 
-### WPD Portfolio Site
+## WPD Portfolio Site
 
 ![WPD Portfolio Site](/assets/images/wpd-portfolio-site.png "WPD Portfolio Site")
 
@@ -230,7 +230,7 @@ module.exports = app => {
 [Hosted at GitHub Pages](https://jarm111.github.io/wpd-portfolio-site/) \
 [Source at GitHub](https://github.com/jarm111/wpd-portfolio-site)
 
-### WPD Eye Candy Page
+## WPD Eye Candy Page
 
 ![WPD Eye Candy page](/assets/images/wpd-eye-candy-page.png "WPD Eye Candy page")
 
@@ -248,7 +248,7 @@ module.exports = app => {
 [Hosted at GitHub Pages](https://jarm111.github.io/wpd-eye-candy-entry-page/) \
 [Source at GitHub](https://github.com/jarm111/wpd-eye-candy-entry-page)
 
-### Midsummer Night
+## Midsummer Night
 
 ![Midsummer Night](/assets/images/midsummer-night.png "Midsummer Night")
 
@@ -266,7 +266,7 @@ module.exports = app => {
 [Hosted at Itch.io](https://jarm111.itch.io/midsummer-night) \
 [Source at GitHub](https://github.com/jarm111/midsummer-night)
 
-### CodingBat
+## CodingBat
 
 ![CodingBat](/assets/images/codingbat.png "CodingBat")
 
