@@ -1,10 +1,10 @@
 ---
 permalink: /projects/
 toc: true
+toc_label: Projects
 toc_sticky: true
+title: Projects
 ---
-
-## Projects
 
 ### AWS Serverless Introduction
 
