@@ -122,7 +122,7 @@ module.exports = app => {
   <dd>2018</dd>
   
   <dt>Experience</dt>
-  <dd>Guiding a more challenging project as a scrum master and getting a lot of experience about developing with Unity and C# by sheer amount of writing and reviewing code</dd>
+  <dd>Guiding a more challenging project as a scrum master and getting a lot of experience about developing with Unity and C# by sheer amount of writing, reviewing and refactoring code</dd>
 </dl>
 
 [Hosted at Itch.io](https://pakanagames.itch.io/defiler) / 
