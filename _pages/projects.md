@@ -44,7 +44,7 @@ app.get('/', function(req, res) {
   <dd>Developing and releasing a web client application with React & Redux that communicates with REST API</dd>
 </dl>
 
-[Hosted at GitHub Pages](https://jarm111.github.io/rps-app-client/) \
+[Hosted at GitHub Pages](https://jarm111.github.io/rps-app-client/) / 
 [Source at GitHub](https://github.com/jarm111/rps-app-client)
 
 ## RPS App REST API
@@ -125,7 +125,7 @@ module.exports = app => {
   <dd>Guiding a more challenging project as a scrum master and getting a lot of experience about developing with Unity and C# by sheer amount of writing and reviewing code</dd>
 </dl>
 
-[Hosted at Itch.io](https://pakanagames.itch.io/defiler) \
+[Hosted at Itch.io](https://pakanagames.itch.io/defiler) / 
 [Portolio of my works in the project](https://jarm111.github.io/my-tc5-pl-portfolio/)
 
 ## Aviatorum
@@ -160,7 +160,7 @@ module.exports = app => {
   <dd>Implementing state machine design pattern with switch-case</dd>
 </dl>
 
-[Hosted at Itch.io](https://jarm111.itch.io/state-machine-pattern-experiment) \
+[Hosted at Itch.io](https://jarm111.itch.io/state-machine-pattern-experiment) / 
 [Source at GitHub](https://github.com/jarm111/state-machine-pattern-experiment)
 
 ## ECS Model Experiment
@@ -178,7 +178,7 @@ module.exports = app => {
   <dd>Understanding how Unity's ECS model works and dividing code into small components by functionality</dd>
 </dl>
 
-[Hosted at Itch.io](https://jarm111.itch.io/ecs-model-experiment) \
+[Hosted at Itch.io](https://jarm111.itch.io/ecs-model-experiment) / 
 [Source at GitHub](https://github.com/jarm111/ecs-model-experiment)
 
 ## Blocky the Flickylike
@@ -196,7 +196,7 @@ module.exports = app => {
   <dd>Designing and developing a simple platformer game (mechanics, physics, 2D-graphics and animation, sounds, menus) with Unity</dd>
 </dl>
 
-[Hosted at Itch.io](https://jarm111.itch.io/blocky-the-flickylike) \
+[Hosted at Itch.io](https://jarm111.itch.io/blocky-the-flickylike) / 
 [Source at GitHub](https://github.com/jarm111/blocky-the-flickylike)
 
 ## Strength Training Workout Planner
@@ -231,7 +231,7 @@ module.exports = app => {
   <dd>Designing and developing responsive web pages without using a framework</dd>
 </dl>
 
-[Hosted at GitHub Pages](https://jarm111.github.io/wpd-portfolio-site/) \
+[Hosted at GitHub Pages](https://jarm111.github.io/wpd-portfolio-site/) / 
 [Source at GitHub](https://github.com/jarm111/wpd-portfolio-site)
 
 ## WPD Eye Candy Page
@@ -249,7 +249,7 @@ module.exports = app => {
   <dd>Developing a web page with CSS3 effects and jQuery scripts</dd>
 </dl>
 
-[Hosted at GitHub Pages](https://jarm111.github.io/wpd-eye-candy-entry-page/) \
+[Hosted at GitHub Pages](https://jarm111.github.io/wpd-eye-candy-entry-page/) / 
 [Source at GitHub](https://github.com/jarm111/wpd-eye-candy-entry-page)
 
 ## Midsummer Night
@@ -267,7 +267,7 @@ module.exports = app => {
   <dd>Designing and developing a simple game from scratch with Construct 2 HTML5 game creator</dd>
 </dl>
 
-[Hosted at Itch.io](https://jarm111.itch.io/midsummer-night) \
+[Hosted at Itch.io](https://jarm111.itch.io/midsummer-night) / 
 [Source at GitHub](https://github.com/jarm111/midsummer-night)
 
 ## CodingBat
