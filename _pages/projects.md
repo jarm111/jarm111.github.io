@@ -95,6 +95,8 @@ module.exports = app => {
 
 ## Humber College Global Forum 2018 at Toronto, Canada
 
+![Humber College Lakeshore Campus](/assets/images/humber-lakeshore-campus.png "Humber College Lakeshore Campus")
+
 <dl>
   <dt>Description</dt>
   <dd>I got elected as one of the student delegates to attend  Humber College’s Global Forum on Innovation and Entrepreneurship 2018</dd>
