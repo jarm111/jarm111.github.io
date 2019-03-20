@@ -29,7 +29,6 @@ Software development is exciting to me because there's so much to learn and it's
 
 - Unity & C# scripting (game mechanics, game state, audio, 2D-graphics & animations, hud, menus)
 - Construct 2
-- Phaser
 
 ### Programming
 
@@ -39,7 +38,7 @@ Software development is exciting to me because there's so much to learn and it's
 
 - Scrum (scrum master's role, product backlog, sprint backlog, sprint planning, daily scrum, sprint review, retrospective)
 - Git (recording/undoing changes, working with remotes, branching & merging, handling merge conflicts)
-- Docker (pulling images, working with containers)
+- Docker (working with containers)
 - GitHub, GitLab, Trello
 
 ## Hobbies
