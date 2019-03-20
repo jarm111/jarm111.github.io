@@ -3,6 +3,10 @@ permalink: /
 title: About me
 ---
 
+I'm a third year Business Information Technology student at JAMK University of Applied Sciences. At the moment I'm into web development with JavaScript technologies. I have previous experience on game development and project management as a scrum master. 
+
+Software development is exciting to me because there's so much to learn and it's a constantly evolving field. I want to work as part of a talented and motivated team solving challenging problems and developing meaningful services. In my experience better results can be achieved when people with varied backgrounds and disciplines share a passion towards a common goal.
+
 ## Skills
 
 ### Web Development
