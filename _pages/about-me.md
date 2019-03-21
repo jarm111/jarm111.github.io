@@ -23,6 +23,8 @@ Software development is exciting to me because there's so much to learn and it's
 
 - MySQL (CRUD-operations, simple and advanced queries, creating/altering tables, user management, transactions, triggers, functions, procedures, indexing)
 - MongoDB (CRUD-operations, queries, aggregation, indexing)
+- Redis (CRUD-operations, queries)
+- Neo4j (CRUD-operations, simple queries)
 - ER-modeling
 
 ### Game Development
