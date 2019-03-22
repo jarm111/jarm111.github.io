@@ -6,7 +6,7 @@ toc_sticky: true
 title: Projects
 ---
 
-A collection of my works and projects I've been involved in.
+A collection of my works and projects I've been involved in
 
 ## AWS Serverless Introduction
 
@@ -35,7 +35,7 @@ app.get('/', function(req, res) {
 
 <dl>
   <dt>Description</dt>
-  <dd>Rock-paper-scissors game React web application</dd>
+  <dd>Rock-paper-scissors game created with React</dd>
 
   <dt>Year</dt>
   <dd>2018</dd>
@@ -88,7 +88,7 @@ module.exports = app => {
   <dd>2018</dd>
   
   <dt>Experience</dt>
-  <dd>Overview of fullstack web application development including JavaScript, jQuery, Web APIs, AngularJS, React, Angular, Node.js, Express, REST, JWT</dd>
+  <dd>Overview of full stack web application development including JavaScript, jQuery, Web APIs, AngularJS, React, Angular, Node.js, Express, REST, JWT</dd>
 </dl>
 
 [Source at GitHub](https://github.com/jarm111/web-development-1-exercises)
@@ -99,7 +99,7 @@ module.exports = app => {
 
 <dl>
   <dt>Description</dt>
-  <dd>I got elected as one of the student delegates to attend  Humber College’s Global Forum on Innovation and Entrepreneurship 2018</dd>
+  <dd>I attended Humber College’s Global Forum on Innovation and Entrepreneurship 2018 as one of the student delegates</dd>
 
   <dt>Year</dt>
   <dd>2018</dd>
