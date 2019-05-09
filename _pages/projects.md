@@ -25,6 +25,23 @@ A collection of my works and projects I've been involved in
 
 [Source at GitHub](https://github.com/jarm111/react-native-demo)
 
+## Databases 2 cource exercises
+
+![React Native Demo](/assets/images/mssql-studio.png "React Native Demo")
+
+<dl>
+  <dt>Description</dt>
+  <dd>My solutions for the Databases 2 2019 course additional exercises</dd>
+
+  <dt>Year</dt>
+  <dd>2019</dd>
+  
+  <dt>Experience</dt>
+  <dd>In depth SQL with MySQL and MSSQL, NoSQL database modeling and operating with MondoDB and Redis, introduction to graph databases with Neo4J</dd>
+</dl>
+
+[Source at GitHub](https://github.com/jarm111/databases-2-exercises)
+
 ## AWS Serverless Introduction
 
 ```javascript
