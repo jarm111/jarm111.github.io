@@ -23,6 +23,7 @@ Software development is exciting to me because there's so much to learn and it's
 ### Databases
 
 - MySQL (CRUD, simple and advanced queries, creating/altering tables, user management, transactions, triggers, functions, procedures, indexing)
+- Microsoft SQL Server (CRUD, creating tables, triggers, cursors, procedures, transactions)
 - MongoDB (CRUD, queries, aggregation, indexing)
 - Redis (CRUD, queries)
 - Neo4j (CRUD, simple queries)
