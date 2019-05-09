@@ -9,12 +9,13 @@ Software development is exciting to me because there's so much to learn and it's
 
 ## Skills
 
-### Web Development
+### Web/Mobile Development
 
 - JavaScript (ES5, ES6)
 - HTML5, CSS3, Boostrap
 - HTTP request methods, REST, authentication & authorization, JWT, JSON, asynchronisity
 - React, Redux, Redux Thunk, React Router
+- React Native, React Navigation, EXPO
 - Node.js, npm, Express, Mongoose, Passport
 - AWS Lambda, Serverless Framework
 - ESLint, Prettier
