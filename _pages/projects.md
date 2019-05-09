@@ -8,6 +8,23 @@ title: Projects
 
 A collection of my works and projects I've been involved in
 
+## React Native Demo
+
+![React Native Demo](/assets/images/tgpa.png "React Native Demo")
+
+<dl>
+  <dt>Description</dt>
+  <dd>React Native demo app that displays data from Random User Generator Web API</dd>
+
+  <dt>Year</dt>
+  <dd>2019</dd>
+  
+  <dt>Experience</dt>
+  <dd>Developing a small mobile app with React Native, React Navigation and EXPO</dd>
+</dl>
+
+[Source at GitHub](https://github.com/jarm111/react-native-demo)
+
 ## AWS Serverless Introduction
 
 ```javascript
