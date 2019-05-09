@@ -11,13 +11,13 @@ Software development is exciting to me because there's so much to learn and it's
 
 ### Web/Mobile Development
 
-- JavaScript (ES5, ES6)
-- HTML5, CSS3, Boostrap
+- JavaScript (ES5, ES6), HTML5, CSS3
 - HTTP request methods, REST, authentication & authorization, JWT, JSON, asynchronisity
 - React, Redux, Redux Thunk, React Router
 - React Native, React Navigation, EXPO
 - Node.js, npm, Express, Mongoose, Passport
 - AWS Lambda, Serverless Framework
+- Boostrap, Jekyll
 - ESLint, Prettier
 
 ### Databases
@@ -43,7 +43,7 @@ Software development is exciting to me because there's so much to learn and it's
 - Scrum (scrum master's role, product backlog, sprint backlog, sprint planning, daily scrum, sprint review, retrospective)
 - Git (recording/undoing changes, working with remotes, branching & merging, handling merge conflicts)
 - Docker (working with containers)
-- GitHub, GitLab, Trello
+- GitHub, GitLab, Trello, Heroku
 
 ## Hobbies
 
