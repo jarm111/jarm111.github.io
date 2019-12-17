@@ -3,7 +3,7 @@ permalink: /
 title: About me
 ---
 
-I'm a third year Business Information Technology student at JAMK University of Applied Sciences. At the moment I'm into web development with JavaScript technologies. I have previous experience on game development and project management as a scrum master. 
+I'm a fourth year Business Information Technology student at JAMK University of Applied Sciences. At the moment I'm into web development with JavaScript technologies. I have previous experience on game development and project management as a scrum master. 
 
 Software development is exciting to me because there's so much to learn and it's a constantly evolving field. I want to work as part of a talented and motivated team solving challenging problems and developing meaningful services. In my experience better results can be achieved when people with varied backgrounds and disciplines share a passion towards a common goal.
 
@@ -11,44 +11,48 @@ Software development is exciting to me because there's so much to learn and it's
 
 ### Web/Mobile Development
 
-- JavaScript (ES5, ES6), HTML5, CSS3
-- HTTP request methods, REST, authentication & authorization, JWT, JSON, asynchronisity
-- React, Redux, Redux Thunk, React Router
+- JavaScript, HTML5, CSS3
+- React with Hooks, React Router, Redux, Redux Thunk, styled-components
 - React Native, React Navigation, EXPO
-- Node.js, npm, Express, Mongoose, Passport
-- AWS Lambda, Serverless Framework
-- Boostrap, Jekyll
-- ESLint, Prettier
+- REST, Node.js, Express, Mongoose
+- GraphQL, Apollo Server, Apollo Client, DataLoader
+- Jest, SuperTest, React/DOM Testing Library, Cypress
+- ESLint, Prettier, webpack
+
+### Cloud
+
+- AWS: Lambda, API Gateway, DynamoDB, S3, Cognito, EC2
+- AWS Cloud Development Kit
+- Serverless Framework
+- Heroku
 
 ### Databases
 
-- MySQL (CRUD, simple and advanced queries, creating/altering tables, user management, transactions, triggers, functions, procedures, indexing)
-- Microsoft SQL Server (CRUD, creating tables, triggers, cursors, procedures, transactions)
-- MongoDB (CRUD, queries, aggregation, indexing)
-- Redis (CRUD, queries)
-- Neo4j (CRUD, simple queries)
+- MySQL
+- MongoDB
+- Redis
 - ER-modeling
 
 ### Game Development
 
-- Unity & C# scripting (game mechanics, game state, audio, 2D-graphics & animations, hud, menus)
+- Unity & C# scripting
 - Construct 2
 
-### Programming
+### Other Programming
 
-- Java (procedural & OOP, console applications)
+- Java
 
 ### Project Management & Tools
 
-- Scrum (scrum master's role, product backlog, sprint backlog, sprint planning, daily scrum, sprint review, retrospective)
-- Git (recording/undoing changes, working with remotes, branching & merging, handling merge conflicts)
-- Docker (working with containers)
-- GitHub, GitLab, Trello, Heroku
+- Scrum: Scrum Master's role, Ceremonies & Artifacts
+- Git
+- Docker
+- Github, GitLab, Trello
 
 ## Hobbies
 
-- bodyweight strength training & cycling
+- disc golf, cycling, strength training
 - playing bass guitar
-- juggling
 - video & tabletop games
+- juggling
 - knitting
