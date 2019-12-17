@@ -8,6 +8,23 @@ title: Projects
 
 A collection of my works and projects I've been involved in
 
+## Full Stack Open 2019
+
+![Full Stack Open 2019](/assets/images/fullstack-open-2019.png "Full Stack Open 2019")
+
+<dl>
+  <dt>Description</dt>
+  <dd>My solutions for Full Stack Open 2019 MOOC exercises</dd>
+
+  <dt>Year</dt>
+  <dd>2019</dd>
+  
+  <dt>Experience</dt>
+  <dd>Plenty more experience with JavaScript, React ecosystem and RESTful API development. New learnings include: React Hooks, testing with Jest, SuperTest, Testing Library and Cypress, styled-components, webpack configuration and GraphQL develpoment with Apollo platform.</dd>
+</dl>
+
+[Source at GitHub](https://github.com/jarm111/full-stack-open-2019)
+
 ## AWS CDK Demo
 
 ```typescript
