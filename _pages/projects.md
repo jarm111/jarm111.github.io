@@ -8,6 +8,35 @@ title: Projects
 
 A collection of my works and projects I've been involved in
 
+## AWS CDK Demo
+
+```typescript
+export class CdkDemoStack extends cdk.Stack {
+  constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
+    super(scope, id, props);
+
+    const messageService = new MessageService(this, "MessageService")
+
+    new apigw.LambdaRestApi(this, 'MessageApi', {
+      handler: messageService.handler
+    })
+  }
+}
+```
+
+<dl>
+  <dt>Description</dt>
+  <dd>Simple AWS Cloud Development Kit demo app and introduction material</dd>
+
+  <dt>Year</dt>
+  <dd>2019</dd>
+  
+  <dt>Experience</dt>
+  <dd>Getting familiar with AWS CDK and developing a simple serverless API with it</dd>
+</dl>
+
+[Source at GitHub](https://github.com/jarm111/aws-cdk-demo)
+
 ## React Native Demo
 
 ![React Native Demo](/assets/images/tgpa.png "React Native Demo")
