@@ -20,7 +20,7 @@ A collection of my works and projects I've been involved in
   <dd>2019</dd>
   
   <dt>Experience</dt>
-  <dd>Plenty more experience with JavaScript, React ecosystem and RESTful API development. New learnings include: React Hooks, testing with Jest, SuperTest, Testing Library and Cypress, styled-components, webpack configuration and GraphQL develpoment with Apollo platform.</dd>
+  <dd>Plenty more experience with JavaScript, React ecosystem and RESTful API development. New learnings include: React Hooks, testing with Jest, SuperTest, Testing Library and Cypress, styled-components, webpack configuration and GraphQL development with Apollo platform.</dd>
 </dl>
 
 [Source at GitHub](https://github.com/jarm111/full-stack-open-2019)
@@ -29,15 +29,7 @@ A collection of my works and projects I've been involved in
 
 ```typescript
 export class CdkDemoStack extends cdk.Stack {
-  constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
-    super(scope, id, props);
-
-    const messageService = new MessageService(this, "MessageService")
-
-    new apigw.LambdaRestApi(this, 'MessageApi', {
-      handler: messageService.handler
-    })
-  }
+  ...
 }
 ```
 
@@ -71,7 +63,7 @@ export class CdkDemoStack extends cdk.Stack {
 
 [Source at GitHub](https://github.com/jarm111/react-native-demo)
 
-## Databases 2 cource exercises
+## Databases 2 cource
 
 ![React Native Demo](/assets/images/mssql-studio.png "React Native Demo")
 
@@ -137,9 +129,6 @@ module.exports = app => {
       passport.authenticate('google-token', { session: false }),
       user.getTokenAndBestScore
     );
-  app
-    .route('/user/score/')
-    .put(user.authenticateUser, user.updateUserBestScore);
 };
 ```
 
@@ -156,7 +145,7 @@ module.exports = app => {
 
 [Source at GitHub](https://github.com/jarm111/rps-app-rest-api)
 
-## Web Development 1 cource exercises
+## Web Development 1 cource
 
 ![Web Development 1 cource exercises commit graph](/assets/images/wd1-exercises-commits.png "Web Development 1 cource exercises commit graph")
 
