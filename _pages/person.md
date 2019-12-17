@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: About me
+title: Person
 ---
 
 I'm a fourth year Business Information Technology student at JAMK University of Applied Sciences. At the moment I'm into web development with JavaScript technologies. I have previous experience on game development and project management as a scrum master. 
