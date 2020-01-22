@@ -3,7 +3,7 @@ permalink: /
 title: Person
 ---
 
-I'm a fourth year Business Information Technology student at JAMK University of Applied Sciences. At the moment I'm into web development with JavaScript technologies. I have previous experience on game development and project management as a scrum master. 
+I’m a fourth year Business Information Technology student at JAMK University of Applied Sciences. Currently I’m studying full stack web development with modern JavaScript technologies. I have previous experience on game development and project management as a scrum master.
 
 Software development is exciting to me because there's so much to learn and it's a constantly evolving field. I want to work as part of a talented and motivated team solving challenging problems and developing meaningful services. In my experience better results can be achieved when people with varied backgrounds and disciplines share a passion towards a common goal.
 
@@ -16,8 +16,8 @@ Software development is exciting to me because there's so much to learn and it's
 - React Native, React Navigation, EXPO
 - REST, Node.js, Express, Mongoose
 - GraphQL, Apollo Server, Apollo Client, DataLoader
-- Jest, SuperTest, React/DOM Testing Library, Cypress
-- ESLint, Prettier, webpack
+- Jest, React Testing Library, Cypress, SuperTest
+- ESLint, Prettier
 
 ### Cloud
 
@@ -51,8 +51,7 @@ Software development is exciting to me because there's so much to learn and it's
 
 ## Hobbies
 
-- disc golf, cycling, strength training
+- disc golf, cycling, long walks
 - playing bass guitar
 - video & tabletop games
 - juggling
-- knitting
