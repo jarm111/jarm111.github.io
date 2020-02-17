@@ -8,6 +8,24 @@ title: Projects
 
 A collection of my works and projects I've been involved in
 
+## Weather App Coding Task
+
+![Weather App Coding Task](/assets/images/weather-app-coding-task.png "Weather App Coding Task")
+
+<dl>
+  <dt>Description</dt>
+  <dd>Weather App made with React using data from OpenWeather API</dd>
+
+  <dt>Year</dt>
+  <dd>2020</dd>
+  
+  <dt>Experience</dt>
+  <dd>Learned to code React with TypeScript and use CSS Modules. Also got good practise with writing custom responsive styles based on given layout design.</dd>
+</dl>
+
+[Hosted at GitHub Pages](https://jarm111.github.io/weather-app-coding-task/) / 
+[Source at GitHub](https://github.com/jarm111/weather-app-coding-task)
+
 ## Full Stack Open 2019
 
 ![Full Stack Open 2019](/assets/images/fullstack-open-2019.png "Full Stack Open 2019")
@@ -20,7 +38,7 @@ A collection of my works and projects I've been involved in
   <dd>2019</dd>
   
   <dt>Experience</dt>
-  <dd>Plenty more experience with JavaScript, React ecosystem and RESTful API development. New learnings include: React Hooks, testing with Jest, SuperTest, Testing Library and Cypress, styled-components, webpack configuration and GraphQL development with Apollo platform.</dd>
+  <dd>Plenty more experience with JavaScript, React ecosystem and RESTful API development. New learnings include: React Hooks, testing with Jest, SuperTest, React Testing Library and Cypress, styled-components, webpack configuration and GraphQL development with Apollo platform.</dd>
 </dl>
 
 [Source at GitHub](https://github.com/jarm111/full-stack-open-2019)

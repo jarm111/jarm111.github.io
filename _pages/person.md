@@ -12,12 +12,12 @@ Software development is exciting to me because there's so much to learn and it's
 ### Web/Mobile Development
 
 - JavaScript, HTML5, CSS3
-- React with Hooks, React Router, Redux, Redux Thunk, styled-components
+- React with Hooks, React Router, Redux, Redux Thunk, styled-components, CSS Modules
 - React Native, React Navigation, EXPO
 - REST, Node.js, Express, Mongoose
 - GraphQL, Apollo Server, Apollo Client, DataLoader
 - Jest, React Testing Library, Cypress, SuperTest
-- ESLint, Prettier
+- TypeScript, ESLint, Prettier
 
 ### Cloud
 
