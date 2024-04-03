@@ -17,7 +17,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "default", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jarm111.github.com"
+title                    : "jarm111.github.io"
 title_separator          : "-"
 name                     : "Jarmo Syvälahti"
 description              : "A portfolio of projects by Jarmo Syvälahti."
@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Jarmo Syvälahti"
   avatar           : "/assets/images/jarm111-avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An aspiring web developer"
-  location         : "Jyväskylä, Finland"
+  bio              : ""
+  location         :
   email            :
   links:
     - label: "Email"
