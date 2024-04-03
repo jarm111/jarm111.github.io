@@ -1,10 +1,12 @@
 ---
-permalink: /projects/
+permalink: /
 toc: true
 toc_label: Projects
 toc_sticky: true
-title: Projects
+title: 
 ---
+
+<h1>Projects</h1>
 
 A collection of my works and projects I've been involved in
 

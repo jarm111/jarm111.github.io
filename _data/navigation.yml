@@ -1,5 +1,3 @@
 main:
-  - title: "Person"
+  - title: ""
     url: /
-  - title: "Projects"
-    url: /projects/
