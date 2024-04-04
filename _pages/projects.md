@@ -10,6 +10,23 @@ title:
 
 A collection of my works and projects I've been involved in
 
+## Exercism
+
+![Exercism](/assets/images/exercism.png "Exercism")
+
+<dl>
+  <dt>Description</dt>
+  <dd>Exercism code practice with Python</dd>
+
+  <dt>Year</dt>
+  <dd>2022-2023</dd>
+
+  <dt>Experience</dt>
+  <dd>Learning Python language</dd>
+</dl>
+
+[Profile at Exercism](https://exercism.org/profiles/jarm111)
+
 ## Thesis
 
 ![Thesis](/assets/images/thesis.png "Thesis")
