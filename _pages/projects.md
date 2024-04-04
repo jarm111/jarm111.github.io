@@ -10,6 +10,25 @@ title:
 
 A collection of my works and projects I've been involved in
 
+## Thesis about test-driven development of web application
+
+![Thesis about test-driven development of web application](/assets/images/thesis.png "Thesis about test-driven development of web application")
+
+<dl>
+  <dt>Description</dt>
+  <dd>The objective of my thesis was to research how the method of test-driven development can be applied to developing a web application</dd>
+
+  <dt>Year</dt>
+  <dd>2020</dd>
+
+  <dt>Experience</dt>
+  <dd>Developing the whole stack test-driven style with TypeScript (React, Redux, Storybook, Node.js, Express, Mongoose) and testing with Jest, Testing Library, SuperTest and Cypress. Researching a topic more in depth and writing a paper about it.</dd>
+</dl>
+
+[Hosted at Theseus](https://urn.fi/URN:NBN:fi:amk-2020121528297) / 
+[Client source at GitHub](https://github.com/jarm111/tdd-demo-client) / 
+[API source at GitHub](https://github.com/jarm111/tdd-demo-api)
+
 ## Weather App Coding Task
 
 ![Weather App Coding Task](/assets/images/weather-app-coding-task.png "Weather App Coding Task")
