@@ -235,13 +235,13 @@ module.exports = app => {
 
 [Source at GitHub](https://github.com/jarm111/web-development-1-exercises)
 
-## Humber College Global Forum 2018 at Toronto, Canada
+## Global Forum 2018
 
 ![Humber College Lakeshore Campus](/assets/images/humber-lakeshore-campus.png "Humber College Lakeshore Campus")
 
 <dl>
   <dt>Description</dt>
-  <dd>I attended Humber College’s Global Forum on Innovation and Entrepreneurship 2018 as one of the student delegates</dd>
+  <dd>I attended Humber College’s Global Forum on Innovation and Entrepreneurship 2018 at Toronto, Canada as one of the student delegates</dd>
 
   <dt>Year</dt>
   <dd>2018</dd>
