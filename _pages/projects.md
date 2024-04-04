@@ -10,6 +10,23 @@ title:
 
 A collection of my works and projects I've been involved in
 
+## Codewars
+
+![Codewars](/assets/images/codewars.png "Codewars")
+
+<dl>
+  <dt>Description</dt>
+  <dd>Codewars coding challenges solving</dd>
+
+  <dt>Year</dt>
+  <dd>2022-2024</dd>
+
+  <dt>Experience</dt>
+  <dd>Honing and maintaining programming skills and learning Python</dd>
+</dl>
+
+[Profile at Codewars](https://www.codewars.com/users/jarm111)
+
 ## Exercism
 
 ![Exercism](/assets/images/exercism.png "Exercism")
