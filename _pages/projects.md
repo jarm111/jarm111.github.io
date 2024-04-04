@@ -10,9 +10,9 @@ title:
 
 A collection of my works and projects I've been involved in
 
-## Thesis about test-driven development of web application
+## Thesis
 
-![Thesis about test-driven development of web application](/assets/images/thesis.png "Thesis about test-driven development of web application")
+![Thesis](/assets/images/thesis.png "Thesis")
 
 <dl>
   <dt>Description</dt>
